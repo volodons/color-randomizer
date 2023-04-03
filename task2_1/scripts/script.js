@@ -1,3 +1,5 @@
+"use strict";
+
 const changeBgButton = document.getElementById("button");
 const body = document.getElementById("body");
 const colorText = document.getElementById("color-text");
